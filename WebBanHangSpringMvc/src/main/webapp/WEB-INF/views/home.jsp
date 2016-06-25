@@ -3,7 +3,7 @@
 <%@ page contentType="text/html" pageEncoding="UTF-8"%>
 <html>
 <head>
-	<title>Homfgtftfytrye</title>
+	<title>Home</title>
 </head>
 <body>
 <div id="content">
